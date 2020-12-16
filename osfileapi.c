@@ -111,7 +111,6 @@
 #include <fcntl.h>
 #include <unistd.h>
 #include <errno.h>
-#include <dirent.h>
 #include <sys/stat.h>
 #include <rtems.h>
 #include <rtems/shell.h>
